@@ -1,1 +1,1 @@
-# ng2quick
+# Angular2 Quick (ng2quick)
