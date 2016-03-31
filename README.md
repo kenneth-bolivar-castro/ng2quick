@@ -31,7 +31,9 @@ Optionally you could optional remove current .git folder to create your own proj
 ```
 rm -Rf .git
 ```
-And remove build.sh script file in order to get a clear installation.
+
+## Remove build.sh script
+Last but not least, we would like to remove build.sh script file in order to get a clear installation.
 ```
 rm -f build.sh
 ```
