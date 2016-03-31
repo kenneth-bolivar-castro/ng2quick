@@ -6,7 +6,9 @@ simple bash script named: "build.sh" to build a typical "Hello World" applicatio
 It will be a very good start point or quick start to develop with Angular2.
 
 ## Warning
-Based on documentation we should have installed node and rpm. Since it provides a bash script it expected a Linux Debian distribution or even an OS X to run it.
+Based on documentation we should have installed node and rpm.
+Since it provides a bash script it expected a Linux Debian distribution or even an OS X to run it.
+Also it provides a default ".gitignore" file, please double check and modify it based on what you need.
 
 ## Usage
 1: Clone repository:
