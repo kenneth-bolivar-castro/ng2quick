@@ -8,6 +8,8 @@ npm install
 echo "Refresh git repository:"
 # Remove current .git folder.
 rm -Rf .git
+rm README.md
+
 # Setup a new git repository.
 echo "# Angular2 Projet" >> README.md
 git init
