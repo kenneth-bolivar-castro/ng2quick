@@ -17,3 +17,6 @@ git commit -m "Initial Angular2 Projet commit"
 echo "Get up and running"
 # Keep the app transpiling and running.
 npm start
+
+echo "Remove current build.sh file"
+rm -f ./build.sh
