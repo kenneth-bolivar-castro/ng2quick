@@ -9,7 +9,6 @@ It will be a very good start point or quick start to develop with Angular2.
 Based on documentation we should have installed node and rpm. Since it provides a bash script it expected a Linux Debian distribution or even an OS X to run it.
 
 ## Usage
-Clone this repository and run the script.
 1: Clone repository:
 ```
 git clone git@github.com:kenneth-bolivar-castro/ng2quick.git
